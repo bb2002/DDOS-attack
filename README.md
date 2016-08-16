@@ -1,4 +1,8 @@
 ﻿# DDOS-attack
+﻿
+﻿See this video https://www.youtube.com/watch?v=Z3TPYCAERpM
+﻿이 비디오를 보세요 https://www.youtube.com/watch?v=Z3TPYCAERpM
+﻿
 ﻿-KR-
 Version 1.1.0 Beta
 - 필독 -
